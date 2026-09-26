@@ -139,7 +139,7 @@ fun Soal2View() {
                 horizontalArrangement = Arrangement.End
             ) {
                 FloatingActionButton(
-                    onClick = { /* intentionally empty - see Ketentuan #4 */ },
+                    onClick = {},
                     containerColor = FieldBackground,
                     contentColor = CardBackground
                 ) {
